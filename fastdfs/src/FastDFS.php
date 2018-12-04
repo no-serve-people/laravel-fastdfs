@@ -2,7 +2,7 @@
 
 namespace Ixingjue\FastDFS;
 
-class FastDfs
+class FastDFS
 {
     public $tracker = null;
     public $storage = null;

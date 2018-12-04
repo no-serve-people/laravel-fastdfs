@@ -1,6 +1,6 @@
 {
     "name": "ixingjue/fastdfs",
-    "description": "test",
+    "description": "Fastdfs is a generic composer component that supports common php frameworks such as laravel, yii, thinkphp5, etc.",
     "authors": [
         {
             "name": "ixingjue",
