@@ -1,4 +1,4 @@
-这是分布式文件存储系统fastDFS的laravel-composer发行包  
+这是分布式文件存储系统fastDFS的laravel-composer发行包 （注意：首先需要编译fastdfs php_client下面的方法才能正常使用 ） 
     配置文件和一般composer包类似  
     具体使用方法  
         在项目根目录下新建packages目录，将此项目clone到该目录，最后执行composer install 即可正常使用    
