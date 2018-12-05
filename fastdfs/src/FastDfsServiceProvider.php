@@ -1,6 +1,6 @@
 <?php
 
-namespace Huaxi\Fastdfs;
+namespace Ixingjue\Fastdfs;
 
 use Storage;
 use Illuminate\Support\ServiceProvider;
